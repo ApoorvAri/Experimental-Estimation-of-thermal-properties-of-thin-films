@@ -1,1 +1,2 @@
 # Experimental-Estimation-of-thermal-properties-of-thin-films
+Development of an experimental framework for estimating thermal conductivity and thermal diffusivity of thin films by integrating Steady-State Comparative Longitudinal Heat Flow (SCHF) and Angstrom methods. The project includes thermal system design, data acquisition using Arduino-based instrumentation, signal processing, and thermal property estimation through experimental temperature measurements and regression analysis.
